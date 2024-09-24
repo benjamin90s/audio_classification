@@ -10,14 +10,14 @@ We utilize the UrbanSound8K dataset, which consists of 8,732 sound excerpts (≤
 
 - Air Conditioner
 - Car Horn
-Children Playing
-Dog Bark
-Drilling
-Engine Idling
-Gun Shot
-Jackhammer
-Siren
-Street Music
+- Children Playing
+- Dog Bark
+- Drilling
+- Engine Idling
+- Gun Shot
+- Jackhammer
+- Siren
+- Street Music
 
 
 
