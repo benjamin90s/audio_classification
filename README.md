@@ -8,8 +8,8 @@ link: https://urbansounddataset.weebly.com/download-urbansound8k.html
 
 We utilize the UrbanSound8K dataset, which consists of 8,732 sound excerpts (≤4 seconds) of urban sounds categorized into 10 classes:
 
-Air Conditioner
-Car Horn
+- Air Conditioner
+- Car Horn
 Children Playing
 Dog Bark
 Drilling
@@ -19,6 +19,5 @@ Jackhammer
 Siren
 Street Music
 
-# Reference: https://mikesmales.medium.com/sound-classification-using-deep-learning-8bc2aa1990b7
 
 
